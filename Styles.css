@@ -1,0 +1,29 @@
+textarea,
+div {
+resize: none;
+width: 98%;
+height: 98%;
+position: absolute;
+top: 0;
+left: 0;
+padding: 1%;
+border: none;
+outline: none;
+font-family: 'Roboto Mono', monospace;
+}
+textarea {
+	background-color: rgba(0,0,0,0);
+    color: rgba(0,0,0,0);
+}
+div {
+	background-color: rgba(50,50,60,1);
+    color: white;
+}
+b {
+	font-weight: normal;
+    color: rgba(255,100,100,1);
+}
+strong {
+	font-weight: normal;
+    color: rgba(60,255,50,0.5);
+}
